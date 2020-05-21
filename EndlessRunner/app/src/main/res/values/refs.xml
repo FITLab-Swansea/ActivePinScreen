@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="skyline_far">skyline_far.png</drawable>
+    <drawable name="skyline_close">skyline_close.png</drawable>
+    <drawable name="skyline_mid">skyline_mid.png</drawable>
+    <drawable name="van">van.png</drawable>
+</resources>

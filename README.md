@@ -9,14 +9,16 @@ As well as presenting a detailed description of the prototype, we provide the po
 * [Prototype](Electronics%20and%20microcontroller%20code/)
 * Circuit layouts & microcontroller code
 * Example Android App source code
-** aaa
-** bbb
-** ccc
+
+1.a
+
+2.b
+3.c
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 The Active PinScreen's prototype designs, circuit layouts, microcontroller code and accompanying Android app source code are all released.
 

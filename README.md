@@ -6,7 +6,7 @@ To build your own Active PinScreen, the following instructions will get you a co
 
 As well as presenting a detailed description of the prototype, we provide the potential design configurations and the applications of Active PinScreen.
 
-* [Prototype (Device Body)](Electronics and microcontroller code/)
+* [Prototype](Electronics and microcontroller code/)
 * Circuit layouts & microcontroller code
 * Example Android App source code
 

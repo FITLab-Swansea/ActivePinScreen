@@ -7,7 +7,7 @@ To build your own Active PinScreen, the following instructions will get you a co
 
 As well as presenting a detailed description of the prototype, we provide the potential design configurations and the applications of Active PinScreen.
 
-* [Prototype](Electronics%20and%20microcontroller%20code/)
+* [Prototype](Prototype/)
 * [Circuit layouts & microcontroller code](Electronics%20and%20microcontroller%20code/)
 * Examples of Android App source code see: [TacCar](EndlessRunner), [TacPacMan](TacPacMan) and [TacPinao](TapPinao).
 

@@ -4,7 +4,7 @@ The prototype can feasibly fit within the casing of a standard smartphone -- see
 ## Getting Start
 The area which provided the tactile feedback are an 8×8 ![array](sizeandshape.png) of pins on the prototype are uniformly distributed over an area of 28 × 28 mm. The blue highlighted area affords the ability to fit comfortably on the back of a standard touchscreen device to provide high-precision feedback to multiple fingers at once.
 
-A close-up view of the device’s 1 mm diameter pins. A schematic of an ![individual pin unit](Pin_unit.png) with its linear solenoid actuator and plunger is shown in the following figure.
+A close-up view of the device’s 1 mm diameter pins. A schematic of an ![individual%20pin%20unit](Pin_unit.png) with its linear solenoid actuator and plunger is shown in the following figure.
 
 * The plungers—the moving pins of the Active PinScreen—are magnetic, and consist of two permanent neodymium magnets.
 * The base magnets have a diameter and thickness of 1.5 mm, and slide through the air-core of the solenoid, trapped inside by unit’s top-cover. The top magnets are adhered to the base magnets, and have a diameter and thickness of 1 mm. When activated, these magnets emerge through the unit’s cover and produce the tactile stimulation effect on the user’s fingers.

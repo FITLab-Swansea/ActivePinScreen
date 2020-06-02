@@ -1,5 +1,5 @@
 # Active PinScreen Prototype
-The prototype can feasibly fit within the casing of a standard smartphone -- see the following figure.![figure](studypose-zoomed.png)
+The prototype can feasibly fit within the casing of a standard smart-phone -- see the following figure.![figure](studypose-zoomed.png)
 
 ## Getting Start
 The area which provided the tactile feedback are an 8×8 array of pins on the prototype are uniformly distributed over an area of 28 × 28 mm. The blue highlighted area affords the ability to fit comfortably on the back of a standard touchscreen device to provide high-precision feedback to multiple fingers at once. ![array](sizeandshape.png)

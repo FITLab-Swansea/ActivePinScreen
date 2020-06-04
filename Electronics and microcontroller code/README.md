@@ -14,7 +14,7 @@ You will also need the following (or similar), in addition to the circuit board:
 The prototype’s solenoids are in practice activated one-by-one, their fast response time, combined with pulse-width modulation means that this is imperceptible to the user. Users are able to feel multiple pins simultaneously.
 
 Therefore, the Active PinScreen, can be programed to form a particular pattern based on the "frame" and "sequence" defined in [Coils array communication protocol](Coils-protocol.pdf).
-An example of the sequence of left to right directional pattern is shown in the following figure. The stimulation consists of four frames (each consisting of 2 × 3 (W × L) pins). ![figure](Sequencing.pdf)
+An example of the sequence of left to right directional pattern is shown in the following figure. The stimulation consists of four frames (each consisting of 2 × 3 (W × L) pins). ![figure](partten.png)
 
 ## License
 

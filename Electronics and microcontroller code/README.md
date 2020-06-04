@@ -8,7 +8,7 @@ You will also need the following (or similar), in addition to the circuit board:
 
 * A Bluetooth HC-05 module
 * Two lithium-polymer battery
-* Optional: Two DPST switchers (examples)
+* Optional: Two DPST switchers ([examples](https://onecall.farnell.com/c-k-components/l201011ss03q/slide-switch-dpst-4a-125v-panel/dp/2931771))
 * Optional: Two extra 100 kOhm resistors for the battery monitor feature
 
 ## License

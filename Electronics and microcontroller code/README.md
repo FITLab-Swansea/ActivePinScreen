@@ -2,7 +2,7 @@
 Active PinScreen is controlled using a custom-made circuit board, which runs a 8X8 pin array and a Bluetooth module, and provides handles battery charging.
 
 ## Getting Start
-This repository provides [circuit diagrams](Gerber%20files/), a [bill of materials](Coil%20array%20BOM.xls) and [parts coordinates list](partslist_coil.xls), a [list of commands](Coil%20array%20control%20-%20PicBasic%20-%20Firmware.txt), and general hardware documentation.
+This repository provides [circuit diagrams](Gerber%20files/), a [bill of materials](Coil%20array%20BOM.xls) and [parts coordinates list](partslist_coil.xls), a [list of commands](Coils-protocol.pdf), and [general hardware documentation](pintoy_paper.pdf).
 
 ## License
 

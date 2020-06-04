@@ -11,6 +11,11 @@ You will also need the following (or similar), in addition to the circuit board:
 * Optional: Two DPST switchers ([examples](https://onecall.farnell.com/c-k-components/l201011ss03q/slide-switch-dpst-4a-125v-panel/dp/2931771))
 * Optional: Two extra 100 kOhm resistors for the battery monitor feature
 
+The prototype’s solenoids are in practice activated one-by-one, their fast response time, combined with pulse-width modulation means that this is imperceptible to the user. Users are able to feel multiple pins simultaneously.
+
+Therefore, the Active PinScreen, can be programed to form a particular pattern based on the "frame" and "sequence" defined in [Coils array communication protocol](Coils-protocol.pdf).
+An example of the sequence of left to right directional pattern is shown in the following figure. The stimulation consists of four frames (each consisting of 2 × 3 (W × L) pins). ![figure](Sequencing.pdf)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
